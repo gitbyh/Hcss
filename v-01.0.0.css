@@ -1,0 +1,35 @@
+.container{
+  width: 95%;
+  min-height: 95vh;
+  margin: 10px auto;
+  border: 1px solid darkgray;
+}
+
+.h-a{
+  text-decoration: none;
+  color: currentColor;
+}
+.h-ul{
+  list-style-type: none;
+}
+.h-flex{
+  display: flex;
+}
+.h-flex-column{
+  flex-direction: column;
+}
+.h-justify-center{
+  justify-content: center;
+}
+.h-justify-between{
+  justify-content: space-between;
+}
+.h-justify-around{
+  justify-content: space-around;
+}
+.h-justify-evenly {
+  justify-content: space-evenly;
+}
+.h-align-center{
+  align-items: center;
+}
